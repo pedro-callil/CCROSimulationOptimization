@@ -20,7 +20,7 @@ required to interrupt extraction from each well for a certain number of
 hours, daily. This period must be contiguous.
 
 The ion of concern in the subterranean waters of the analyzed city is
-Fluoride; hence, the model used its charge in each stream. Any other ion is
+Fluoride; hence, the model used its load in each stream. Any other ion is
 assumed to be either less dangerous or less concentrated; with split ratios
 defined from the optimization, the concentration of any other ion in any point
 of the system can be calculated.
